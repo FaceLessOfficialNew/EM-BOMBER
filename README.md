@@ -3,7 +3,7 @@
 # $ pkg install git
 # $ apt install git
 # $ pkg install python 
-# $ git clone https://github.com/FaceLessOfficialNew/EM-BOMBER
+# $ git clone https://github.com/FaceLessOfficialNew/EM-BOMBER.git
 # $ sh setup.sh
 # $ python em-bomber.py
 
